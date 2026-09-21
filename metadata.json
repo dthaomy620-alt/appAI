@@ -1,0 +1,6 @@
+{
+  "name": "UniLife Companion - AI Student Assistant",
+  "description": "Kiến trúc hệ thống và AI Engine cho trợ lý cá nhân sinh viên UniLife Companion, tối ưu hóa Tam giác áp lực: Tài chính, Thời gian và Học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
